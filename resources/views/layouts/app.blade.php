@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Laravel Notifications App</a>
+        <a class="navbar-brand" href="#">Laravel Notification System</a>
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a href="{{ route('users.index') }}" class="nav-link">Users</a></li>
