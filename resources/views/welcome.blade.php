@@ -26,7 +26,7 @@
             margin-bottom: 30px;
         }
         .links > a {
-            color: #ff007d;
+            color: #2e00ff;
             padding: 0 25px;
             font-size: 15px;
             font-weight: 600;
