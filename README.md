@@ -17,9 +17,18 @@
 ## Database Setup
 
 ### Migration
-1. **Create a new database "laravel_notifications"**
+1. **Create a new database**
+    ```bash
+    laravel_notifications
+    ```
 2. **Run migrations in the project console :"php artisan migrate"**
+    ```bash
+    php artisan migrate
+    ```
 3. **Seed the database with initial data:"php artisan db:seed"**
+    ```bash
+    php artisan db:seed
+    ```
 
 ## Configuration
 
@@ -31,7 +40,7 @@
    ```dotenv
    DB_DATABASE=laravel_notifications
    DB_USERNAME=root
-   DB_PASSWORD=yourpassword
+   DB_PASSWORD=root
    ```
 3. **Generate an application key:"php artisan key:generate"**
 
